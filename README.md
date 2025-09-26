@@ -10,3 +10,8 @@ oa-percentage-01.ipynb
 
 Google Colabでoa-percentage-01.ipynbを実行するURL  
 https://colab.research.google.com/github/ashikita/openalex-api-notebook/blob/main/oa-percentage-01.ipynb  
+
+参考: topic
+https://github.com/ourresearch/openalex-topic-classification/tree/main?tab=readme-ov-file  
+OpenAlex_topic_mapping_table  
+https://docs.google.com/spreadsheets/d/1v-MAq64x4YjhO7RWcB-yrKV5D_2vOOsxl4u6GBKEXY8/edit?gid=983250122#gid=983250122  
