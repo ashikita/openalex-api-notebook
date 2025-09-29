@@ -1,4 +1,6 @@
-# 説明: 
+OpenAlex APIで論文のOA情報を取得するJupyter notebook
+
+### 説明: 
 
 オリジナル: OpenAlex API tutorialのoa-percentage出力用Jupyter notebook公開ページ  
 https://github.com/ourresearch/openalex-api-tutorials/blob/main/notebooks/institutions/oa-percentage.ipynb  
@@ -13,7 +15,7 @@ https://github.com/ourresearch/openalex-api-tutorials/blob/main/notebooks/instit
 分析対象の要素をis_oaからoa_statusに変更したnotebook  
 [oa-percentage-02.ipynb](https://github.com/ashikita/openalex-api-notebook/blob/main/oa-percentage-02.ipynb)  
 
-## 実行: 
+### 実行: 
 
 Google Colabでoa-percentage-01.ipynbを開くURL  
 https://colab.research.google.com/github/ashikita/openalex-api-notebook/blob/main/oa-percentage-01.ipynb  
@@ -21,7 +23,7 @@ https://colab.research.google.com/github/ashikita/openalex-api-notebook/blob/mai
 Google Colabでoa-percentage-02.ipynbを開くURL  
 https://colab.research.google.com/github/ashikita/openalex-api-notebook/blob/main/oa-percentage-02.ipynb  
 
-## 参考: 
+### 参考: 
 topic  
 https://github.com/ourresearch/openalex-topic-classification/tree/main?tab=readme-ov-file  
 OpenAlex_topic_mapping_table  
