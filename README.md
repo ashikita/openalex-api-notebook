@@ -7,7 +7,7 @@
   
 ### 1-1. コードの変更点
 
-オリジナルのNotebookに対する既存の[修正リクエスト](https://github.com/ourresearch/openalex-api-tutorials/pull/11/commits/bee0bce07cd06d6f55615db8c25de9ce69926a45)(211行目)  
+オリジナルのNotebookに対する既存の[修正リクエスト](https://github.com/ourresearch/openalex-api-tutorials/pull/11/commits/bee0bce07cd06d6f55615db8c25de9ce69926a45)(211行目)を反映  
 
 ```markdown
 ```diff
