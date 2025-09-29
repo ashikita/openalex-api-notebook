@@ -9,7 +9,7 @@ https://github.com/ourresearch/openalex-api-tutorials/blob/main/notebooks/instit
 oa-percentage-01.ipynb  
 
 分析対象の要素をis_oaからoa_statusに変更したnotebook  
-oa-percentage-01.ipynb  
+[oa-percentage-01.ipynb](https://github.com/ashikita/openalex-api-notebook/blob/main/oa-percentage-01.ipynb)  
 
 Google Colabでoa-percentage-01.ipynbを実行するURL  
 https://colab.research.google.com/github/ashikita/openalex-api-notebook/blob/main/oa-percentage-01.ipynb  
