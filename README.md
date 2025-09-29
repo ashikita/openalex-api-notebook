@@ -36,7 +36,8 @@
 - oa-percentage-02.ipynb
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashikita/openalex-api-notebook/blob/main/oa-percentage-02.ipynb)
 
-![画像の説明](images/oa-percentage-01.png)
+![oa-percentage-01.ipynbで出力した円グラフの例](images/oa-percentage-01.png)
+![oa-percentage-02.ipynbで出力した円グラフの例](images/oa-percentage-02.png)
 
 ## 3. 参考
 
