@@ -28,7 +28,7 @@
 
 ## 2. 実行方法 
 
-次のボタンをクリックして上記のNotebookをGoogle Colab上で開き、フィルタリング設定を自由に変更して実行可能  
+次のボタンをクリックして上記のNotebookをGoogle Colab上で開き、フィルタリング設定を自由に変更して実行  
 
 - oa-percentage-01.ipynb
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashikita/openalex-api-notebook/blob/main/oa-percentage-01.ipynb)
