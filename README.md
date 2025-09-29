@@ -15,8 +15,8 @@
 + if group['key_display_name'] == "true":
 ```
 その他の修正点:  
-- RORを九州大学に変更
-- フィルタリングの要素に領域(domain)や分野(field)、出版年の範囲指定を追加
+- 対象機関を九州大学のROR番号に変更
+- フィルタリングの設定要素に領域(domain)や分野(field)、出版年の範囲指定を追加
 - 分析対象にoa_statusを追加
 
 ### 1-2. Notebook
