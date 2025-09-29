@@ -7,15 +7,13 @@ https://github.com/ourresearch/openalex-api-tutorials/blob/main/notebooks/instit
   
 ### コードの変更点
 
-オリジナルのnotebookに対する以下の修正点を反映(211行目)  
+オリジナルのnotebookに対する以下の[修正リクエスト](https://github.com/ourresearch/openalex-api-tutorials/pull/11/commits/bee0bce07cd06d6f55615db8c25de9ce69926a45)を反映(211行目)  
 
 ```markdown
 ```diff
 - if group['key'] == "true":
 + if group['key_display_name'] == "true":
 ```
-
-参考: https://github.com/ourresearch/openalex-api-tutorials/pull/11/commits/bee0bce07cd06d6f55615db8c25de9ce69926a45  
   
 ### 公開ファイル
 
