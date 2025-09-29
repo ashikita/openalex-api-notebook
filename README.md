@@ -2,7 +2,7 @@
 
 ## 1. 概要
   
-[OpenAlex API tutorial](https://docs.openalex.org/additional-help/tutorials)で公開されている以下のJupyter Notebookをオリジナルとして、修正版を公開  
+[OpenAlex API tutorial](https://docs.openalex.org/additional-help/tutorials)で公開されている以下のJupyter Notebookをオリジナルとして、その修正版を公開  
 - [Monitoring Open Access publications for a given institution](https://github.com/ourresearch/openalex-api-tutorials/blob/main/notebooks/institutions/oa-percentage.ipynb)
   
 ### 1-1. コードの変更点
