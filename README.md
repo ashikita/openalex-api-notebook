@@ -1,4 +1,4 @@
-# Jupyter NotebookによるOpenAlex APIを用いた論文のオープンアクセス（OA）情報の取得と可視化
+# Jupyter NotebookによるOpenAlex APIを用いた論文のオープンアクセス情報の取得と可視化
 
 ## 1. 概要
   
@@ -21,20 +21,22 @@
 
 ### 1-2. Notebook
 
-- [oa-percentage-01.ipynb](https://github.com/ashikita/openalex-api-notebook/blob/main/oa-percentage-01.ipynb)
+- [oa-percentage-01.ipynb](https://github.com/ashikita/openalex-api-notebook/blob/main/oa-percentage-01.ipynb)  
   is_oaを分析
-- [oa-percentage-02.ipynb](https://github.com/ashikita/openalex-api-notebook/blob/main/oa-percentage-02.ipynb)
+- [oa-percentage-02.ipynb](https://github.com/ashikita/openalex-api-notebook/blob/main/oa-percentage-02.ipynb)  
   oa_statusを分析
 
 ## 2. 実行方法 
 
-次のボタンをクリックすればNotebookをGoogle Colab上で実行可能  
+次のボタンをクリックすれば上記のNotebookをGoogle Colab上で実行可能  
 
 - oa-percentage-01.ipynb
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashikita/openalex-api-notebook/blob/main/oa-percentage-01.ipynb)
 
 - oa-percentage-02.ipynb
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashikita/openalex-api-notebook/blob/main/oa-percentage-02.ipynb)
+
+![画像の説明](images/oa-percentage-01.png)
 
 ## 3. 参考
 
