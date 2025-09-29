@@ -2,7 +2,9 @@
 
 ## 概要
   
-OpenAlex API tutorialで公開されている以下のJupyter notebookを  
+OpenAlex API tutorialで公開されている以下のJupyter notebookをオリジナルとして修正版を公開  
+
+Monitoring Open Access publications for a given institution  
 https://github.com/ourresearch/openalex-api-tutorials/blob/main/notebooks/institutions/oa-percentage.ipynb  
   
 ### コードの変更点
@@ -26,7 +28,7 @@ https://github.com/ourresearch/openalex-api-tutorials/blob/main/notebooks/instit
 
 ## 実行方法 
 
-次のボタンをクリックすればNotebookをGoogle Colab上で実行できます。
+次のボタンをクリックすればNotebookをGoogle Colab上で実行可能  
 
 - oa-percentage-01.ipynb
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashikita/openalex-api-notebook/blob/main/oa-percentage-01.ipynb)
