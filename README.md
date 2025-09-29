@@ -1,5 +1,7 @@
 # Jupyter NotebookによるOpenAlex APIを用いた論文のオープンアクセス情報の取得と可視化
 
+このリポジトリはOpenAlex APIを用いて特定機関の論文のオープンアクセス状況を分析・可視化するJupyter Notebookを提供します。
+
 ## 1. 概要
   
 [OpenAlex API tutorial](https://docs.openalex.org/additional-help/tutorials)で公開されている以下のJupyter Notebookをオリジナルとして、その修正版を公開  
