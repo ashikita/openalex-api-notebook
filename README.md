@@ -24,7 +24,7 @@
 
 ### 1-2. Notebook
 
-- [oa-percentage-01.ipynb](https://github.com/ashikita/openalex-api-notebook/blob/main/oa-percentage-01.ipynb)  
+- [oa-percentage_ja.ipynb](https://github.com/ashikita/openalex-api-notebook/blob/main/oa-percentage_ja.ipynb)  
   is_oaを分析してOpen AcessとClosed Accessの割合を出力
 - [oa-percentage-02.ipynb](https://github.com/ashikita/openalex-api-notebook/blob/main/oa-percentage-02.ipynb)  
   oa_statusを分析してOpen Accessのルート別の割合を出力
@@ -33,8 +33,8 @@
 
 次のボタンをクリックして上記のNotebookをGoogle Colab上で開き、フィルタリング設定を自由に変更して実行  
 
-- oa-percentage-01.ipynb
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashikita/openalex-api-notebook/blob/main/oa-percentage-01.ipynb)
+- oa-percentage_ja.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashikita/openalex-api-notebook/blob/main/oa-percentage_ja.ipynb)
 
 - oa-percentage-02.ipynb
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashikita/openalex-api-notebook/blob/main/oa-percentage-02.ipynb)
