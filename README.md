@@ -27,8 +27,8 @@
 
 - [oa-percentage_ja.ipynb](https://github.com/ashikita/openalex-api-notebook/blob/main/oa-percentage_ja.ipynb)  
   is_oaを分析してOpen AcessとClosed Accessの割合を出力
-- [oa-percentage-adv_ja.ipynb](https://github.com/ashikita/openalex-api-notebook/blob/main/oa-percentage-adv_ja.ipynb)  
-  oa_statusを分析してOpen Accessのルート別の割合を出力
+- [oa-percentage-adv_ja.ipynb](https://github.com/ashikita/openalex-api-notebook/blob/main/oa-percentage-adv_ja.ipynb) (応用編)  
+  oa_statusを分析してOpen Accessステータス別の割合を出力
 
 ## 2. 実行方法 
 
@@ -37,7 +37,7 @@
 - oa-percentage_ja.ipynb
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashikita/openalex-api-notebook/blob/main/oa-percentage_ja.ipynb)
 
-- oa-percentage-adv_ja.ipynb
+- oa-percentage-adv_ja.ipynb (応用編)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashikita/openalex-api-notebook/blob/main/oa-percentage-adv_ja.ipynb)
 
 <img src="images/oa-percentage-01.png" alt="is_oaの円グラフ出力例" height="350" /><img src="images/oa-percentage-02.png" alt="oa-statusの円グラフ出力例" height="350" />
