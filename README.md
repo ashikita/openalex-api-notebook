@@ -17,11 +17,11 @@
 + if group['key_display_name'] == "true":
 ```
 その他の修正点:  
-- 対象機関を九州大学のROR番号に変更
-- フィルタリングの設定要素に領域(domain)や分野(field)、出版年の範囲指定を追加
-- 分析対象にoa_statusを追加
-- Google Colabバッジを追加
 - 日本語に翻訳
+- 対象機関を九州大学のROR番号に変更
+- Google Colabバッジを追加
+- 分析対象にoa_statusを追加 (応用編)
+- フィルタリングの設定要素に領域(domain)や分野(field)、出版年の範囲指定を追加 (応用編)
 
 ### 1-2. Notebook
 
@@ -37,14 +37,8 @@
 - oa-percentage_ja.ipynb
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashikita/openalex-api-notebook/blob/main/oa-percentage_ja.ipynb)
 
-- oa-percentage-02.ipynb
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashikita/openalex-api-notebook/blob/main/oa-percentage-02.ipynb)
-
-- oa-percentage-02r1.ipynb
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashikita/openalex-api-notebook/blob/main/oa-percentage-02r1.ipynb)
-
-- oa-percentage-02r2.ipynb
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashikita/openalex-api-notebook/blob/main/oa-percentage-02r2.ipynb)
+- oa-percentage-adv_ja.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashikita/openalex-api-notebook/blob/main/oa-percentage-adv_ja.ipynb)
 
 <img src="images/oa-percentage-01.png" alt="is_oaの円グラフ出力例" height="350" /><img src="images/oa-percentage-02.png" alt="oa-statusの円グラフ出力例" height="350" />
 
