@@ -27,8 +27,8 @@
 
 - [oa-percentage_ja.ipynb](https://github.com/ashikita/openalex-api-notebook/blob/main/oa-percentage_ja.ipynb)  
   is_oaを分析してOpen AcessとClosed Accessの割合を出力
-- [oa-percentage-adv_ja.ipynb](https://github.com/ashikita/openalex-api-notebook/blob/main/oa-percentage-adv_ja.ipynb) (応用編)  
-  oa_statusを分析してOpen Accessステータス別の割合を出力
+- [oa-percentage-adv_ja.ipynb](https://github.com/ashikita/openalex-api-notebook/blob/main/oa-percentage-adv_ja.ipynb)   
+  oa_statusを分析してOpen Accessルート別の割合を出力 (応用編)
 
 ## 2. 実行方法 
 
